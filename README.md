@@ -20,17 +20,37 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+# Infinite Scroll - Weather Forecast Web Application
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+This project entails the development of a weather application featuring two pages. The first page displays a list of city and country names, allowing users to click on any city for detailed weather reports on the subsequent page.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Key Features:
 
-## Deploy on Vercel
+○ Infinite scrolling for seamless navigation
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+○ Detailed weather reports for selected cities
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+## Authors
+
+- Paras Bhardwaj
+
+
+## Deployment
+
+This project is deployed on Vercel, a cloud platform for static sites and serverless functions. You can access the deployed version of the application by visiting the following link:
+
+Infinite Scroll - Weather Forecast Web Application
+
+Vercel provides seamless deployment and hosting services, ensuring that your application is accessible to users worldwide with high performance and reliability.
+## API Reference
+
+OpenDataSoft: For providing valuable access to datasets and APIs that enhance the functionality and data visualization within our application.
+
+https://public.opendatasoft.com/explore/?sort=modified
+
+OpenWeather: For offering comprehensive weather data APIs, enabling us to deliver accurate and up-to-date weather forecasts to our users.
+
+https://openweathermap.org/api
